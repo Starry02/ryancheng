@@ -1,4 +1,6 @@
-
+// 增加一个新的CourierAppForm.jsx
+// 更改三个GeodisForm变量名，一个geodis-api变量名字
+// 将三个
 import React from 'react';
 import PropTypes from 'prop-types';
 import {connect} from 'react-redux';
@@ -91,3 +93,6 @@ export default connect(
 		form: APP_CONNECTION_FORM,
 	})(GeodisForm)
 );
+
+
+suibgeng更改了东西
